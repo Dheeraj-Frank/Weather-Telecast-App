@@ -8,6 +8,8 @@ We will use the Open Weather Map API to get the data.
 <li>pip install geopy,
 <li>pip install timezonefinder
 </b>  
-
+<br>
+<b>How to use this app?</b>
+<b>Step 1 :- </b>Download the Weather-Telecast
 <br><b>Preview of App :-</b>
 <img src="Weather App.png">
