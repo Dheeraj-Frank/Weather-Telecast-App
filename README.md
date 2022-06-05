@@ -3,9 +3,11 @@ It is a simple app which can display the weather telecast of different countries
 It is a completely gui tkinter project. 
 We will use the Open Weather Map API to get the data. 
 
-Required modules:
-  pip install pytz,
-  pip install geopy,
-  pip install timezonefinder
+<b>Required modules :-
+<li>pip install pytz,
+<li>pip install geopy,
+<li>pip install timezonefinder
+</b>  
 
-<img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-4.png">
+<br><b>Preview of App :-</b>
+<img src="Weather App.png">
