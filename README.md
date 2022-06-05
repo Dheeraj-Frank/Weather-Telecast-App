@@ -9,11 +9,13 @@ We will use the Open Weather Map API to get the data.
 <li>pip install timezonefinder</li>
 </b>  
 <br>
+
 <b>How to use this app?</b>
 <br>
 <b>Step 1 :- </b>Download the Weather Telecast App.rar <br>
 <b>Step 2 :- </b>Extract the files. <br>
 <b>Step 3 :- </b>Run <b>Weather.py</b> file
 <br>
+
 <b>Preview of App :-</b>
 <img src="Weather App.png">
