@@ -14,7 +14,9 @@ We will use the Open Weather Map API to get the data.
 <br>
 <b>Step 1 :- </b>Download the Weather Telecast App.rar <br>
 <b>Step 2 :- </b>Extract the files. <br>
-<b>Step 3 :- </b>Run <b>Weather.py</b> file
+<b>Step 3 :- </b>Run <b>Weather.py</b> file.
+<b>Step 4 :- </b>Enter the country/city name in text field.
+<b>Step 5 :- </b>Hit the Search Icon.
 <br>
 
 <b>Preview of App :-</b>
