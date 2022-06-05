@@ -6,7 +6,7 @@ We will use the Open Weather Map API to get the data.
 <b>Required modules :-
 <li>pip install pytz,
 <li>pip install geopy,
-<li>pip install timezonefinder
+<li>pip install timezonefinder</li>
 </b>  
 <br>
 <b>How to use this app?</b>
