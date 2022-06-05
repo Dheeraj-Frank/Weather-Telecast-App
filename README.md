@@ -4,6 +4,6 @@ It is a completely gui tkinter project.
 We will use the Open Weather Map API to get the data. 
 
 Required modules:
-  pip install pytz 
-  pip install geopy
+  pip install pytz,
+  pip install geopy,
   pip install timezonefinder
